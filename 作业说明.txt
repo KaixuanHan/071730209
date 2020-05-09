@@ -1,0 +1,4 @@
+Homework1 : Referring to the example of the guided missile , the same method (euler) to solve the parachute question.
+Method.adams to calculate : Use the method adams to calculate or solve the parachute question.
+Method.rk4 to calculate : Use the method Rk4 to calculate or solve the parachute question.
+modsim : The new modsim , which contains the complete new function rk4 and adams. 
